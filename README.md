@@ -1,16 +1,5 @@
 # online_learning
 
-A new Flutter project.
+https://github.com/monishvm/online-learning-app/blob/9d29f7b357557ecefeb7646298d74b2e81ca2620/ezgif.com-gif-maker%20(1).gif
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"><img src="https://github.com/monishvm/online-learning-app/blob/9d29f7b357557ecefeb7646298d74b2e81ca2620/ezgif.com-gif-maker%20(1).gif" width="300"></p>
